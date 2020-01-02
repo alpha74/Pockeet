@@ -1,5 +1,5 @@
-# SocketChat
-A simple single room chat web application created using socket.io and Nodejs.
+# Pockeet
+Extending SocketChat by adding more features.
 
 ## Run
 - Install Nodejs
